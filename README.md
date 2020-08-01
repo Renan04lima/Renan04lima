@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Renan Oliveira, and I'm from Brazil (brazil). I'm student of Computer Science at University Federal of São Carlos
+My name is Renan Oliveira, and I'm from Brazil (🇧🇷). I'm student of Computer Science at University Federal of São Carlos
 since 2019 and currently I'm Web Developer at [Associação Share](https://associacaoshare.com.br/).
 
 
